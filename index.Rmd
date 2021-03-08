@@ -1,0 +1,39 @@
+---
+title: "Amelia J. DuVall"
+image: "ajd.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/ameliaduvall"
+  - label: Twitter
+    url: "https://twitter.com/ameliajduvall"
+  - label: GitHub
+    url: "https://github.com/ameliaduvall"
+  - label: Email
+    url: "mailto:ajduvall@uw.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Amelia J. DuVall is a seabird ecologist and conservationist. She is pursuing a PhD from the School of Aquatic and Fishery Sciences at the University of Washington. She has worked with breeding seabird populations in southern California in collaboration with the California Institute of Environmental Studies (CIES), Channel Islands National Park, and USGS Western Ecological Research Center. Research interests include seabird population ecology, island ecosystems, and seabird conservation and resource management. 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Ph.D. in Aquatic and Fishery Sciences | September 2019 - Present
+
+**The University of California, Santa Barbara** | Santa Barbara, CA
+
+B.A. in Environmental Studies | September 2012 - May 2015
+
+## Experience
+
+**California Institute of Environmental Studies** | Seabird Ecologist & Data Manager | June 2016 - Present
+
+**USGS Western Ecological Research Center** | Research Scientist | June 2018 - September 2019
+
+## Skills
+* Wilderness First Responder
+
